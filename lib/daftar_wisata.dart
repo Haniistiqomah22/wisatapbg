@@ -83,7 +83,7 @@ class _DaftarWisataState extends State<DaftarWisata> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    'Hallo Sandra!',
+                    'Hallo Hani!',
                     style: TextStyle(
                       fontSize: 18,
                       fontWeight: FontWeight.bold,
